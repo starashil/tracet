@@ -35,6 +35,8 @@ print(result,unans)
 ```
 
 ##Output:
+![Uploading image.png…]()
+
 
 ##Result:
 Thus Execution of Network commands Performed 
