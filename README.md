@@ -35,7 +35,8 @@ print(result,unans)
 ```
 
 ##Output:
-![Uploading image.png…]()
+ ![Screenshot (122)](https://github.com/user-attachments/assets/ebfc2c80-e9e6-4a29-a3e9-8a6f0edb236b)
+
 
 
 ##Result:
